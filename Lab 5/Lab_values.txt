@@ -1,0 +1,8 @@
+Illumination Current (mA) VMP (V) IMP (mA) VOC (V) ISC (mA)
+10 0.28 -7.64 0.44 -10
+8 0.277 -6.23 0.43 -8
+Thus the values of fill factors can be obtained using this equation
+Fill F actor =
+VMP · IMP
+VOC · ISC
+Thus fill factor for illuminations of 8 mA is 0.486 and 10 mA is 0.501.
